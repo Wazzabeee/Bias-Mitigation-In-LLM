@@ -1,5 +1,5 @@
 # Evaluating Scalability of Bias Mitigation Techniques on Large Language Models
-This project was conceived as part of the "Atelier Pratique en Intelligence Artificielle II" course at UQAC, in collaboration with [Martin Blanckaert](https://www.linkedin.com/in/martinblanckaert/), [Valentin Porchet](https://www.linkedin.com/in/valentin-porchet/), [Thomas Sirvent](https://www.linkedin.com/in/tsirvent/) and under the supervision of [Darine Ameyed](https://scholar.google.com/citations?user=uoP1tAMAAAAJ) and [Riadh Ben Chaabene](https://ca.linkedin.com/in/riadh-ben-chaabene).
+This project was conceived as part of the "Atelier Pratique en Intelligence Artificielle II" course at UQAC, in collaboration with [Martin Blanckaert](https://www.linkedin.com/in/martinblanckaert/), [Valentin Porchet](https://www.linkedin.com/in/valentin-porchet/), [Thomas Sirvent](https://www.linkedin.com/in/tsirvent/) and under the supervision of [Darine Ameyed](https://www.linkedin.com/in/darine-ameyed-a9526124/) and [Riadh Ben Chaabene](https://ca.linkedin.com/in/riadh-ben-chaabene).
 
 ## Objective
 
