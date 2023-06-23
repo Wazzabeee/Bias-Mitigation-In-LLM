@@ -10,7 +10,7 @@ This led to the following research question:
 
 ## Repository
 
-In this repo you'll find our final report in X.pdf as well as various notebooks for reproducing the results.
+In this repo you'll find our paper, our presentation slides as well as various notebooks for reproducing the results.
 
 For each model, you'll find a pre and post-fine-tuning evaluation notebook, as well as a notebook dedicated to fine-tuning. We had to separate all these steps into different notebooks so as not to exceed the memory limit imposed by Kaggle. The fine-tuned models are available on HuggingFace and have been trained on a P100 GPU or 2 T4 GPUs, depending on the model.
 
